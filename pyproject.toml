@@ -12,6 +12,12 @@ azure-functions = "^1.21.3"
 azure-storage-blob = "^12.24.0"
 pandas = "^2.2.3"
 python-dotenv = "^1.0.1"
+azure-keyvault-keys = "^4.10.0"
+azure-identity = "^1.19.0"
+cryptography = "^44.0.0"
+openpyxl = "^3.1.5"
+azure-storage-file-datalake = "^12.18.0"
+fastparquet = "^2024.11.0"
 
 
 [build-system]
